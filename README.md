@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sabskey
-- 👀 I’m interested in photography.
-- 🌱 I’m currently learning coding.
+- 🌱 I’m a passionated flutter developer.
 
 <!---
 sabskey/sabskey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
